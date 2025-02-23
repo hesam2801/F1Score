@@ -13,24 +13,16 @@ This repository contains a Python implementation for calculating the F1 score an
 ## Formulas
 
 - **Accuracy**: 
-  $
-  \text{Accuracy} = \frac{TP + TN}{TP + FP + TN + FN}
-  $
+  $\text{Accuracy} = \frac{TP + TN}{TP + FP + TN + FN}$
 
 - **Precision**: 
-  $
-  \text{Precision} = \frac{TP}{TP + FP}
-  $
+  $\text{Precision} = \frac{TP}{TP + FP}$
 
 - **Recall**: 
-  $
-  \text{Recall} = \frac{TP}{TP + FN}
-  $
+  $\text{Recall} = \frac{TP}{TP + FN}$
 
 - **F1 Score**: 
-  $
-  \text{F1 Score} = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}
-  $
+  $\text{F1 Score} = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}$
 
 ## Usage
 
